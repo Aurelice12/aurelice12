@@ -1,6 +1,5 @@
 ## ✨Hello there✨
-
-
+I'm just a girly nerd who kinda likes programing :D
 
 <!--
 **Aurelice12/aurelice12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
