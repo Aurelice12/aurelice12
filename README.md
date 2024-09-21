@@ -1,5 +1,5 @@
 ## ✨Hello there✨
-> I'm just a girly nerd who kinda likes programing :D
+> I'm just a girly nerd who kinda likes programing :D (and a swiftie by the way)
 
 - 17 anos 
 - Atualmente no terceiro ano do ensino médio integrado com um curso técnico em informática
