@@ -2,7 +2,7 @@
 > I'm just a girly nerd who kinda likes programing :D (and a swiftie by the way)
 
 - 17 anos 
-- Atualmente no terceiro ano do ensino médio integrado com um curso técnico em informática
+- Atualmente no terceiro ano do ensino médio integrado a um curso técnico em informática
 
 Meu currículo: https://aurelice12.github.io/curriculo_infoweb/
 
